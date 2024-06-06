@@ -3,14 +3,14 @@
 <img src="documentation/Edgeberry_EDU_cartridge.png" align="right" width="50%"/>
 
 >[!important]
->**This Hardware Cartridge is still in a very early stage of development**. Its exact content and features are still being defined.
+>**This Hardware Cartridge is still in a very early stage of development**. Its exact content and features are in the process of being defined.
 
-The **EDU Hardware Cartridge** is created especially for supporting educational exploration of electronics in IoT. lorem ipsum dolores si amet ...
+The **EDU Hardware Cartridge** is created for supporting educational, hands-on exploration of electronics in IoT. lorem ipsum dolores si amet ...
 
 <br clear="right"/>
 
 ## License & Collaboration
-**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license.
+This project is released under the **CERN OHL-W** license.
 
 ### Collaboration
 
