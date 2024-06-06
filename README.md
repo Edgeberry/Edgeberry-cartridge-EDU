@@ -2,7 +2,10 @@
 
 <img src="documentation/Edgeberry_EDU_cartridge.png" align="right" width="50%"/>
 
-The **EDU Hardware Cartridge** is lorem ipsum dolores si amet ...
+>[!important]
+>**This Hardware Cartridge is still in a very early stage of development**. Its exact content and features are still being defined.
+
+The **EDU Hardware Cartridge** is created especially for supporting educational exploration of electronics in IoT. lorem ipsum dolores si amet ...
 
 <br clear="right"/>
 
